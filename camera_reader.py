@@ -1,5 +1,5 @@
 # -*- coding:utf-8 -*-
-import cv3
+import cv2
 
 from boss_train import Model
 from image_show import show_image
